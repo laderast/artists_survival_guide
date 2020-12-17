@@ -1,0 +1,5 @@
+book_filename: "artists_survival_guide"
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: "Chapter "

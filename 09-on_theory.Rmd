@@ -1,0 +1,60 @@
+# On Theory
+
+Many artists have a bad relationship to theory. This is understandable. There are a lot of bad teachers of theory, who fail to add that theory is mostly a suggestion, and that figuring how to break these rules of music theory is part of the fun of learning it. Also, most of us were taught theory when we were adolescents, which made theory seem restrictive and something to rebel against.
+
+Theory is really only the history of art distilled into the form of rules. Someone, at some point, attempted to separate the good art from the bad and building a set of rules seemed like the best way to do this. It is true that music is all about proportions, intervals, and math. But the reason why one piece affects us cannot be easily be quantified. As much as some art theorists believe, there are no single unfiying ideas about what separates 'good' art from the rest. The entirety of music and art, much like language, resists easy classification. Theory only has the authority we assign to it. 
+
+There is a prideful sneer to certain musicians when they confess they are completely self taught, and they don't need music theory. They only need three chords, they say. Well, sad to say, but these people are still using theory, but in a very limited form. 
+
+On the other side are self indulgent theory junkies who put multiple key and signature changes in a song without bothering to ask whether there is actually intention and reason behind these choices. Their music often comes off as self indulgent. Their pieces are often crammed so full of ideas that none of them have room to develop or breathe. 
+
+There is a balance between these two approaches. I think that part of achieving that balance is realizing that theory can help us when we're stuck for direction. 
+
+Theory can take many shapes and is not just limited to what we learned about harmony in university. Here are six examples that may expand your concept of theory and its place in music: 
+
+1. There are cross-pollinating theories, such as those suggested by Henry Cowell's *New Musical Resources*. 
+2. Theory can include chord leading, which is a way to transform one chord into another. 
+3. Theory can include the study of tradition, such as the works of Bartok. 
+4. Theory includes general compositional strategies such as Brian Eno's Oblique Strategies.
+5. Theory includes ways to incorporate randomness such as those of John Cage, or non-traditional collaborators such as Messaien and birdsong.
+6. Theory also includes improvisational game pieces such as those of John Zorn. 
+
+I will talk a little about each of these types of theory.
+
+Henry Cowell's *New Musical Resources* is a fascinating little book and I highly recommend it as an example of theory expanding your boundaries. I think it is a wonderful example of applying concepts from one part of music to another. In it, he proposed to apply the principles of the overtone series to rhythm. He suggests new cross-rhythms that could be played based on the harmonic series (a simple cross rhythm is to play in 2 while someone else plays in 3, Cowell suggests crazy cross rhythms such as 5:8 and 4:7). His theory of tone clusters uses major second intervals instead of major thirds as the basis of chords, producing a new type of tonality. In many ways, Cowell's approach is inspirational, especially in how it takes principles that govern one aspect of music and map it to another, producing new and unheard territory in the process.
+
+You might have encountered chord leading as suggestions for selecting a set of chord changes as the structure of a piece. Chord leading suggests a number of chords that might follow another chord you have selected in your sequence. Chord leading is in effect a set of rules for transforming one chord into another in a musical sequence. We may need to only change one note in a chord to result into a completely different musical effect. Chord leading is pretty much a suggestion for building musical structures that are readily accepted by others. Shostakovich flaunted these rules. I think of his trio where in the context of his slow movement, the arrival of a major chord is a jarring event. But he could have only achieved such an effect by understanding chord leading and how to subvert our expectations as listeners.
+
+Theory can ground us in a musical tradition by showing how our work relates to the past. I can't imagine what Bela Bartok's music would sound like without his intense study of Hungarian folk music and tradition. To participate in a tradition can add a powerful sense of familiarity to the work, especially if our piece uses some traditions and subverts others. (A very funny example of this is Erik Satie's *Sonatine Bureaucratique*.) But we must provide enough of our own vision or risk the work being weighed down by tradition.
+
+Theory can include compositional strategies, such as Brian Eno's *Oblique Strategies*, a deck of cards with instructions which provide us with ways to recontexualize musical ideas. One of the most famous is "Honor thy mistake as a hidden intention." These strategies can provide us with unexpected directions to take a musical piece, but their implementation must be organic and true to the nature of the piece. Otherwise, they are about useful as notes from studio executives.
+
+A theory of chance and probability can be freeing. Both John Cage and Olivier Messaien incorporate such theories of randomness and chance into their work. This frees themselves of part of the compositional burden. John Cage's pieces all have random elements but, not all of the musical elements in his pieces rely on this randomness. For example, in *Apartment house 1778*, Cage used chance to decide which parts to subtract from American Hymns. Randomness was used as a partner in composition, not as the overall determinant of the final work. Similarly, Messaien used birdsong to inject new ideas into his work, and his modes of limited transposition are a form of compositional restriction derived from analysis of his own work. However, even in the use of such systems, Cage and Messaien never abandon their own compositional tastes.
+
+Theory can be embodied in those pieces that are improvisational games, such as John Zorn's "game pieces". "Cobra" is one such musical game, consisting of rules for improvisation that are switched on the fly by what Zorn calls a "prompter", who functions much like a musical traffic cop, directing the musical flow from one improviser to the next. The theory in these games is a theory of musical interaction meant to increase the intersestingness of the piece to the listener. The games themselves are types of power struggles and with the right musicians, these power struggles can be compelling dramas.
+
+Theory used in the context of connecting us to tradition and helping us overcome our ruts can be liberating. It's only when we think of theory as rigid rules in a system that we find it restrictive. Yes, there was originally a rule of "no parallel fifths" in baroque composition. But power chords came out of flaunting this rule. Total serialism was often used as a rigid system and as a result, many serialist pieces lost the human element by giving up too much compositional control. Such rigid compositional systems can be intellectually intoxicating, but are really dead ends. 
+
+No theoretical system can completely relieve the composer of the most essential quality needed in composition: intent. Your decisions must be purposeful, compelling, and organic to the nature of your piece for your music to be compelling to others. You must discover the integrity of the piece and fight for that. Otherwise, you might as well as leave your music to the machines.
+
+I hope that this essay encourages you to think of theory in a new light. We've surveyed the field of music theory and realized that it encompasses many techniques and ways of thinking that can help us when we are stuck in a compositional rut. So, start exploring the wide world of theory. You might be surprised.
+
+## Resources and References
+
+There are a ton of music theory books that push the envelope. Here are a few that I used to write this essay.
+
+[The Rest is Noise](http://www.therestisnoise.com). If you want an introduction to composition in the 20th and 21st century, I can't think of a better book. Pithily written, it's a dishy account of a fascinating subject and a nice reference.
+
+[New Musical Resources](http://zztt.org/lmc2_files/Cowell_New_Musical_Resources.pdf). Henry Cowell's slim volume provides us with an approach for recontextualizing music and its many aspects. 
+
+[Chord leading](http://www.musicarrangerspage.com/4606/chords-under-a-melody-chord-leading/). Here's a relatively easy to understand page that explains the concepts behind chord leading.
+
+[Oblique Strategies](http://www.rtqe.net/ObliqueStrategies/). Brian Eno's deck of cards with compositional strategies have now taken many forms, including an app. These compositional heurisitics may be helpful. Now in its 5th edition.
+
+[Some Notes on John Zorn's Cobra](https://www2.ak.tu-berlin.de/~gastprof/collins/experimental-music/Zorn/americanmusic.28.1.0044.pdf). Great essay analyzing the game piece "Cobra".
+
+[The Music of John Cage](http://rosewhitemusic.com/piano/writings/introduction-music-john-cage/) A book on the music of John Cage. I used some notes from the introduction in writing this essay. I also recommend his first book called "[Silence: Lectures and Writings](https://en.wikipedia.org/wiki/Silence:_Lectures_and_Writings)" if you want to learn more about his ideas. Also check out his [UbuWeb Page](http://www.ubu.com/sound/cage.html).
+
+[The Technique of my Musical Language](http://monoskop.org/images/5/50/Messiaen_Olivier_The_Technique_of_My_Musical_Language.pdf) Olivier Messaien's master work on the techniques he used to compose. It's not an easy read, but it's very interesting all the same.
+
+[UbuWeb's Papers](http://www.ubu.com/papers/) house many classics of contemporary music theory, from Luigi Russolo's "[The Art of Noises](http://www.ubu.com/papers/russolo.html)" and Pierre Boulez's "[Schoenberg is Dead](http://www.ubu.com/papers/Boulez-Schoenberg+Is+Dead.pdf)".
