@@ -10,11 +10,32 @@ link-citations: yes
 description: "This is a series of essays I wrote about how to make art in a largely indifferent world."
 ---
 
+```{r echo=FALSE}
+library(metathis)
+
+meta() %>%
+  meta_description(
+    "This is a series of essays I wrote about how to make art in a largely indifferent world."
+  ) %>% 
+  meta_name("github-repo" = "laderast/artists_survival_guide") %>% 
+  meta_viewport() %>% 
+  meta_social(
+    title = "An Artist's Survival Guide",
+    url = "https://laderast.github.io/artists_survival_guide",
+    og_type = "book",
+    og_author = c("Ted Laderas"),
+    twitter_card_type = "summary",
+    twitter_creator = "@tladeras"
+  )
+
+```
+
+
 # Introduction
 
 To make art in the world is difficult. Making art in an indifferent world, when you have a small audience, is even more difficult.
 
-This book consists of essays written from 2015 to 2020 about how to continue to make art in an indifferent world. Hopefully you will find it helpful as you continue on in your journey.
+This book consists of essays written from 2015 to 2020 about how to continue to make art in an indifferent world. They were mostly previously published on my blog: [15 People](https://15people.net). Hopefully you will find these essays helpful as you continue on in your artistic journey.
 
 ## One Note
 
