@@ -46,3 +46,7 @@ I have a number of releases and music and more information is available here: ht
 ## One Note
 
 Note it is called *an* Artist's Survival Guide, not *the* Artist's Survival Guide. As you continue in your artistic career, you will need to develop your own strategies to survive.
+
+## License
+
+This book is licensed under a [Creative Commons Attribution 4.0 International license](http://creativecommons.org/licenses/by/4.0/). Please share freely, as long as you attribute me as its creator (Ted Laderas, ted@15people.net).

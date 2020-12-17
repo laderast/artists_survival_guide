@@ -1,6 +1,7 @@
 introduction
 about-me
 one-note
+license
 on-sensitivity
 resources
 on-craft
@@ -11,12 +12,14 @@ the-thick-of-it
 having-a-process-to-creatively-enable-you
 resources-1
 on-recharging
-on-depression
 resources-2
+on-depression
+resources-3
 on-success-or-how-to-suck-it-up-and-be-happy-for-your-successful-friends.
 on-artistic-influences
-resources-3
+resources-4
 on-musical-collaboration
+resources-5
 on-theory
 resources-and-references
 on-listening
