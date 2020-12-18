@@ -7,6 +7,7 @@ documentclass: book
 bibliography: 
 biblio-style: apalike
 link-citations: yes
+always_allow_html: yes
 description: "This is a series of essays I wrote about how to make art in a largely indifferent world."
 ---
 
