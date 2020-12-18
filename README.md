@@ -1,1 +1,3 @@
-This is a minimal example of a book based on R Markdown and **bookdown** (https://github.com/rstudio/bookdown). Please see the page "Get Started" at https://bookdown.org/home/about/ for how to compile this example.
+# Bookdown Repository for An Artist's Survival Guide
+
+Read it here: https://laderast.github.io/artists_survival_guide

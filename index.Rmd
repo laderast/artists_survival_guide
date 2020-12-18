@@ -39,7 +39,7 @@ This book consists of essays written from 2015 to 2020 about how to continue to 
 
 ## About Me
 
-I am a [Musician](https://15people.net), a [Data scientist](https://laderast.github.io) and an Educator. I have a pretty unique view of making art. 
+I am a [Musician](https://15people.net), a [Data scientist](https://laderast.github.io) and an [Educator](https://laderast.github.io/cv). I have a pretty unique view of making art. 
 
 Why should you listen to me? I have been making music and art in some form for over 28 years. I don't consider myself to be wildly successful, but I have managed to continue making art in some form or other, and I consider that mildly successful.
 
