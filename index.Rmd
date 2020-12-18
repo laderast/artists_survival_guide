@@ -54,4 +54,4 @@ Also note it is called *an* Artist's Survival Guide, not *the* Artist's Survival
 
 ## License
 
-This book is licensed under a [Creative Commons Attribution Non Commercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/). Please share freely, but please contact me if you want to reuse or republish it (Ted Laderas, tedladeras [at] gmail).
+This book is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International license](https://creativecommons.org/licenses/by-nc/4.0/). Please share freely, but please contact me if you want to reuse or republish it (Ted Laderas, tedladeras [at] gmail).
