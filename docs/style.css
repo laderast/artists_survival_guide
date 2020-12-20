@@ -1,3 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700&display=swap');
+
+.book.font-family-1 {
+  font-family: 'Muli', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: Lato, sans-serif;
+}
+
+ul.summary {
+   font-family: 'Muli', sans-serif;
+}
+
 p.caption {
   color: #777;
   margin-top: 10px;
