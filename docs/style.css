@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Muli:400,400i,700&display=swap');
 
 .book.font-family-1 {
-  font-family: 'Muli', sans-serif;
+  font-family: 'Georgia', serif;
 }
 
 h1, h2, h3, h4 {
@@ -10,7 +10,7 @@ h1, h2, h3, h4 {
 }
 
 ul.summary {
-   font-family: 'Muli', sans-serif;
+   font-family: 'Georgia', serif;
 }
 
 p.caption {
